@@ -1,0 +1,6 @@
+{
+  "name": "Meeting Intelligence Workspace",
+  "description": "A professional SaaS workspace that prepares executive-ready structured intelligence from meeting materials, Notes PDFs, presentation slides, and supporting documents.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
